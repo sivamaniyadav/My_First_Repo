@@ -1,2 +1,2 @@
 # My_First_Repo
-this is for my assignment
+this repository contains the source code for my project, a single apllivcation to demonistarte GIT usage
